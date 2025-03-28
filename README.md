@@ -2,6 +2,8 @@
 
 This is a React app I made for the **Frontend Engineering Intern Assignment**. It’s a dashboard where you type queries, see past queries, and get a chart with fake data. It has a cool futuristic style—dark theme, neon lights, and animations.
 
+**live-link:  https://growth-gear-assignment.vercel.app/
+
 ---
 
 ## What It Does
